@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './Header';
 import Nav from './Nav';
@@ -10,8 +10,8 @@ import Missing from './Missing';
 import Footer from './Footer';
 //import { Link } from 'react-router-dom';
 import { Route, Routes, Link, useNavigate } from 'react-router-dom';
-import Post from './Post';
-import PostLayout from './PostLayout';
+
+
 import { useEffect, useState } from 'react';
 import { format } from 'date-fns';
 
