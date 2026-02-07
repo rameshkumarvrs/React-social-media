@@ -8,8 +8,8 @@ import PostPage from './PostPage';
 import About from './About';
 import Missing from './Missing';
 import Footer from './Footer';
-//import { Link } from 'react-router-dom';
-import { Route, Routes, Link, useNavigate } from 'react-router-dom';
+
+import { Route, Routes, useNavigate } from 'react-router-dom';
 
 
 import { useEffect, useState } from 'react';
